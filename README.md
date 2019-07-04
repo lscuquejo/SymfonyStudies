@@ -2,14 +2,30 @@
 
 ###Here keeps the links of all the courses related to that study.
 
-* First Course Part From SymfonyCasts `https://symfonycasts.com/screencast/oo`
-* Second Course Part From SymfonyCasts `https://symfonycasts.com/screencast/oo-ep2`
+* First Course From Symfony4 `https://symfonycasts.com/screencast/symfony`
 
-### Some commands That you may use while studying. 
+### Setup and updates :) 
+```
+
+composer self-update                                      ///// updates global composer
+
+php -S localhost:8000                                     ///// runs local host server.
+
+```
+
+### Git cool commands 
 ```
 
 git add -A && git commit -m "intended commit" && git push ///// add all commit & push .
 
-php -S localhost:8000                                     ///// runs local host server.
+```
+
+### All the other cool commands and stuff will be in the root of each project/studies
+
+```
+
+Fundamentals = https://github.com/lscuquejo/SymfonyStudies/tree/master/SymfonyCourse-1
+
+Security = https://github.com/lscuquejo/SymfonyStudies/tree/master/SymfonySecurity/start
 
 ```
