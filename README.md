@@ -1,15 +1,16 @@
 ![Alt text](imgs/symfony_logo.png?raw=true "Title")
-
 ## Welcome to my Symfony Study. All the progress of all the courses, learning and projects. Will be all Logged/Saved here.
 
-###Here keeps the links of all the courses related to that study.
 
-### Setup and updates :) 
+
+### Setup and updates ;) 
 ```
 
 composer self-update                                      ///// updates global composer
 
 php -S localhost:8000                                     ///// runs local host server.
+
+Set the path of composer.json                             ///// to see how watch this video from min 5:00 until 5:20  
 
 ```
 
@@ -24,8 +25,8 @@ git add -A && git commit -m "intended commit" && git push ///// add all commit &
 
 ```
 
-Fundamentals = https://github.com/lscuquejo/SymfonyStudies/tree/master/SymfonyCourse-1
+*1 Fundamentals = https://github.com/lscuquejo/SymfonyStudies/tree/master/SymfonyCourse-1
 
-Security = https://github.com/lscuquejo/SymfonyStudies/tree/master/SymfonySecurity/start
+*? Security = https://github.com/lscuquejo/SymfonyStudies/tree/master/SymfonySecurity/start
 
 ```
