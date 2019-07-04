@@ -1,8 +1,8 @@
-## Welcome to my PHP OOP Study All the progress on the courses and learning will be all logged here.
+![Alt text](imgs/loveOfMyLife.png?raw=true "Title")
+
+## Welcome to my Symfony Study. All the progress of all the courses, learning and projects. Will be all Logged/Saved here.
 
 ###Here keeps the links of all the courses related to that study.
-
-* First Course From Symfony4 `https://symfonycasts.com/screencast/symfony`
 
 ### Setup and updates :) 
 ```
