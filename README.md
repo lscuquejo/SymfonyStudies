@@ -1,4 +1,4 @@
-![Alt text](imgs/loveOfMyLife.png?raw=true "Title")
+![Alt text](imgs/symfony_logo.png?raw=true "Title")
 
 ## Welcome to my Symfony Study. All the progress of all the courses, learning and projects. Will be all Logged/Saved here.
 
